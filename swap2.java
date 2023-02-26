@@ -11,7 +11,7 @@ class swap2{
          x = x + y;
          y = x - y;
          x = x - y;
-         System.out.println("After swapping:"
+         //System.out.println("After swapping:"
                             + " x = " + x + ", y = " + y);
         //  int c = a;
         //  a=b;
